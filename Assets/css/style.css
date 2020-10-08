@@ -1,25 +1,67 @@
-body {
-    background-color: coral;
 
+
+.h2 {
+    
+    font-weight: bold;
+    margin-top: 10px;
+    margin:20px;
+
+}
+
+body {
+    background-color: rgb(177, 102, 10);
 }
 
 .aboutme {
 
-    color: cornsilk;
-    margin-right: 20px;
- 
+    color: white;
+    margin-left: 20px;
+
 }
 
 img {
 
     float: left;
+    margin-top: 35;
     margin-right: 20px;
-    margin-: 20px;
+    margin-left: 20px;
 }
 
 p {
-    margin-top: 0px;
-    margin-bottom: 20px
-    margin
+   margin-left: 20px;
+   color: white;
+
+}
+
+.nav {
+
+    font-weight: bolder;
+}
+
+footer {
+    background-color: teal;
+    text-align: center;
+    margin: auto;
+    box-sizing: border-box
+
+
+}
+
+.pfcontainer {
+    width:95%;
+    overflow: hidden;
+    margin: 20px auto;
+    padding: 20px;  
+}
+
+.pcontainer ul {
+    padding: 0px;
+    margin: 0x;
+}
+
+.pcontainer ul {
+    list-style: none;
+    float: left
+    width
 
 }
