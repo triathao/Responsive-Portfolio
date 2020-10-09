@@ -3,10 +3,29 @@
     height: auto;
   }
 
+   h3 {
+    margin-top: 30px;
+    font-size: 16px;
+    color: rgb(206, 200, 200);
+   }
+ 
   body {
-background-color: black;
+  
+    background-color: black;
 
   }
+
+  .navbar {
+    box-align: right;
+    text-align: right;
+}
+
+.container1-sm{
+  width: 350px;
+  height: 350px;
+  background-color: tomato;
+  border-top: 25px;
+}
 
   section {
     color:whitesmoke;
@@ -14,7 +33,38 @@ background-color: black;
   }
 
   footer {
+    font-size: 15px;
     color: rgb(172, 90, 28);
     margin: 50px;
     text-align: center
   }
+
+  .card-text {
+    
+    color: rgba(254, 254, 254, 0.892)
+    
+
+  }
+
+  .card {
+    background-color: rgb(155, 84, 22);
+      margin: 30px;
+      float: center; 
+      margin-bottom: 10px; 
+      text-align: left;
+}
+ 
+.card-title {
+
+  color: white;
+  font-size: 30px;
+}
+
+.card-img {
+
+  float: left;
+  margin-right: 25px;
+  border: white 5px; 
+  padding: 2px;
+}
+
