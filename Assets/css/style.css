@@ -34,7 +34,7 @@
 
   footer {
     font-size: 15px;
-    color: rgb(172, 90, 28);
+    color: rgb(216, 128, 61);
     margin: 50px;
     text-align: center
   }
@@ -47,7 +47,7 @@
   }
 
   .card {
-    background-color: rgb(155, 84, 22);
+    background-color: rgb(34, 34, 34);
       margin: 30px;
       float: center; 
       margin-bottom: 10px; 
